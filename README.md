@@ -7,3 +7,6 @@
 * plots/gif_pop/
   * count_deaths_001.png :: Example output PNG 1
   * count_deaths_002.png :: Example output PNG 2
+
+* Output 
+![Alt Text](https://github.com/jborycz/south_covid_gif/blob/main/plots/gif_pop/south_covid_log10_compressed.gif)
